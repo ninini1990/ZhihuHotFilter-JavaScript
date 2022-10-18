@@ -1,6 +1,6 @@
 # ZhihuHotFilter-JavaScript
-根据自定义关键词，过滤个人可能感兴趣的知乎热榜话题，JavaScript脚本
-作者：<a href="https://www.zhihu.com/people/nidaye2" target="_blank">尼尼尼@知乎</a>
+根据自定义关键词，过滤个人可能感兴趣的知乎热榜话题，JavaScript脚本<p>
+作者：<a href="https://www.zhihu.com/people/nidaye2" target="_blank">尼尼尼@知乎</a><p>
 
 **运行环境需求：**<p>
 已测试过 谷歌Chrome / 微软Edge/ Firefox 浏览器，均可正常使用。<p>
