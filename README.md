@@ -1,5 +1,7 @@
 # ZhihuHotFilter-JavaScript
-根据自定义关键词，过滤个人可能感兴趣的知乎热榜话题，JavaScript脚本<p>
+根据自定义关键词，过滤个人可能感兴趣的知乎热榜话题，JavaScript脚本。<p>
+可以节省反复浏览整个热榜去寻找感兴趣话题的时间。<p>
+但由于只根据关键词过滤，所以会包含不相关结果，需要再人工鉴别。<p>
 作者：<a href="https://www.zhihu.com/people/nidaye2" target="_blank">尼尼尼@知乎</a><p>
 
 **运行环境需求：**<p>
