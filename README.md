@@ -38,7 +38,7 @@ JS脚本商店地址：https://greasyfork.org/en/scripts/453259-zhihuhotfilter-j
   
 ![Snap375](https://user-images.githubusercontent.com/112439804/196351605-fc68f446-5153-4a1b-ac14-e41342d1ce92.jpg) <p>
   
-<b>2.可自行修改脚本中的关键词，注意单引号、逗号都必须是英文符号。</b><p>
+<b>2.可自行修改脚本中的关键词，注意单引号、逗号等等都必须为英文字符。</b><p>
     
 ![image](https://user-images.githubusercontent.com/112439804/196351010-9af5c9a8-30ab-4e7e-8c19-290cae042452.png)<p>
   
