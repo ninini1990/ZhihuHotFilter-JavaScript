@@ -33,9 +33,10 @@ JS脚本商店地址：https://greasyfork.org/en/scripts/453259-zhihuhotfilter-j
 ---
 <h2>安装及使用详细说明</h2><p>
 参考 https://github.com/ninini1990/ZhihuAnswerChecker-JavaScript <p>
+  
 <b>1.只在“热榜”页面生效</b><p>  
   
-![image](https://user-images.githubusercontent.com/112439804/196351213-6048bc2a-0767-47b5-9884-082a137ba4d0.png) <p>
+![Snap375](https://user-images.githubusercontent.com/112439804/196351605-fc68f446-5153-4a1b-ac14-e41342d1ce92.jpg) <p>
   
 <b>2.可自行修改脚本中的关键词，注意单引号、逗号都必须是英文符号。</b><p>
     
@@ -45,6 +46,6 @@ JS脚本商店地址：https://greasyfork.org/en/scripts/453259-zhihuhotfilter-j
  
 ![image](https://user-images.githubusercontent.com/112439804/196351324-c98fdf7a-9b5d-4754-a6c3-c72f2f5f2ead.png)<p>
   
-  
+
   <p>
   
